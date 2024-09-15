@@ -1424,3 +1424,54 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 
 [2024.09.13-23.00.52:127][  1]Running Python start-up script 'C:/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.069211 secs
 [2024.09.13-23.00.52:199][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2024.09.13-23.02.25:539][ 22]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.061 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 365 files in 677 folders with total size 3 MiB.
+[2024.09.14-00.02.25:536][808]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.058 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 365 files in 677 folders with total size 3 MiB.
+[2024.09.14-00.28.57:219][582]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.09.14-00.28.58:455][582]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.09.14-00.29.03:455][582]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.09.14-00.29.08:455][582]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.09.14-01.11.43:398][583]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17312
+[2024.09.14-01.11.43:724][583]LogUdpMessaging: Display: Added local interface '10.10.5.18' to multicast group '230.0.0.1:6666'
+[2024.09.14-01.11.43:865][583]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{34b7f624-45bc-41a8-a4d2-c5bb5600767c}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=170.97
+[2024.09.14-01.11.43:871][583]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.09.14-01.11.43:876][583]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.09.14-01.11.43:888][584]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.09.14-01.11.43:889][584]LogHttp: Warning: 000007C6B3C87300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.09.14-01.11.43:889][584]LogHttp: Warning: 000007C6B3C87300: libcurl info message cache 0 (Too old connection (2610 seconds idle), disconnect it)
+[2024.09.14-01.11.43:889][584]LogHttp: Warning: 000007C6B3C87300: libcurl info message cache 1 (Connection 1 seems to be dead)
+[2024.09.14-01.11.43:889][584]LogHttp: Warning: 000007C6B3C87300: libcurl info message cache 2 (Closing connection)
+[2024.09.14-01.11.43:890][584]LogHttp: Warning: 000007C6B3C87300: libcurl info message cache 3 (Send failure: Connection was aborted)
+[2024.09.14-01.11.43:890][584]LogHttp: Warning: 000007C6B3C87300: libcurl info message cache 4 (Recv failure: Connection was aborted)
+[2024.09.14-01.11.43:890][584]LogHttp: Warning: 000007C6B3C87300: libcurl info message cache 5 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.09.14-01.11.43:890][584]LogHttp: Warning: 000007C6B3C87300: libcurl info message cache 6 (Closing connection)
+[2024.09.14-01.11.43:890][584]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7A910047-47B9-0E6F-79FE-BA85344D4E79%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a3d2bb2f4e106854d3cfeb9239d29a8e%7C1889bc306979411084de9e80a95890f0%7C256b9e53-3c00-4fb2-9197-003fa79cafb8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.09.14-01.11.45:545][589]LogUdpMessaging: Display: Added local interface '10.10.5.18' to multicast group '230.0.0.1:6666'
+[2024.09.14-01.11.45:770][590]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.09.14-01.11.48:223][595]LogUdpMessaging: Display: Added local interface '10.10.5.18' to multicast group '230.0.0.1:6666'
+[2024.09.14-01.12.11:697][712]LogUObjectHash: Compacting FUObjectHashTables data took  18.01ms
+[2024.09.14-01.12.11:743][712]LogStall: Shutdown...
+[2024.09.14-01.12.11:756][712]LogStall: Shutdown complete.
+[2024.09.14-01.12.11:830][712]LogSlate: Window 'GDWTuts - Unreal Editor' being destroyed
+[2024.09.14-01.12.12:069][713]Cmd: QUIT_EDITOR
+[2024.09.14-01.12.12:069][713]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.09.14-01.12.12:081][713]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.09.14-01.12.12:083][713]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.09.14-01.12.12:083][713]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.09.14-01.12.12:259][713]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.09.14-01.12.12:262][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.14-01.12.12:268][713]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.09.14-01.12.12:291][713]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.09.14-01.12.12:637][713]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.09.14-01.12.12:637][713]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.09.14-01.12.12:637][713]LogAudio: Display: Audio Device unregistered from world 'Untitled_1'.
+[2024.09.14-01.12.12:638][713]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.09.14-01.12.12:648][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.09.14-01.12.12:650][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.09.14-01.12.12:679][713]LogAudio: Display: Audio Device Manager Shutdown
+[2024.09.14-01.12.12:679][713]LogSlate: Window 'Content Browser' being destroyed
+[2024.09.14-01.12.12:681][713]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.09.14-01.12.12:725][713]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.09.14-01.12.12:726][713]LogExit: Preparing to exit.
+[2024.09.14-01.12.13:007][713]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2024.09.14-01.44.58:113][713]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.089 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 365 files in 677 folders with total size 3 MiB.
+[2024.09.14-02.45.00:529][713]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.538 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 365 files in 677 folders with total size 3 MiB.
