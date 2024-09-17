@@ -1412,3 +1412,4 @@ LogInit: Object subsystem initialized
 
 [2024.09.17-00.12.10:842][  1]Running Python start-up script 'C:/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.050359 secs
 [2024.09.17-00.12.10:919][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2024.09.17-00.13.50:333][518]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.185 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 527 files in 884 folders with total size 3 MiB.
