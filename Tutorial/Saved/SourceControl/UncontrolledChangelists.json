@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/unrealProjects/GDWTuts/Tutorial/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/unrealProjects/GDWTuts/Tutorial/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/unrealProjects/GDWTuts/Tutorial/Content/Blueprint/IMC_Default.uasset",
+				"C:/unrealProjects/GDWTuts/Tutorial/Content/Blueprint/BP_FPSChar.uasset",
+				"C:/unrealProjects/GDWTuts/Tutorial/Content/Framework/BP_GameMode.uasset",
+				"C:/unrealProjects/GDWTuts/Tutorial/Content/Blueprint/InputActions/Move.uasset",
+				"C:/unrealProjects/GDWTuts/Tutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/1M/DPBBF3Y2J2ENL389OMPZXT.uasset"
 			]
 		}
 	]
