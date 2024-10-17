@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/unrealProjects/GDWTuts/Tutorial4/Content/Tutorial4Map.umap",
+				"C:/unrealProjects/GDWTuts/Tutorial4/Content/TutMaterial.uasset",
+				"C:/unrealProjects/GDWTuts/Tutorial4/Content/LandscapeMaterial.uasset",
+				"C:/unrealProjects/GDWTuts/Tutorial4/Content/Tutorial4Map_sharedassets/Brick_LayerInfo.uasset",
+				"C:/unrealProjects/GDWTuts/Tutorial4/Content/Tutorial4Map_sharedassets/Concrete_LayerInfo.uasset",
+				"C:/unrealProjects/GDWTuts/Tutorial4/Content/Tutorial4Map_sharedassets/Dirt_LayerInfo.uasset",
+				"C:/unrealProjects/GDWTuts/Tutorial4/Content/Tutorial4Map_sharedassets/Grass_LayerInfo.uasset"
+			]
+		}
+	]
+}
