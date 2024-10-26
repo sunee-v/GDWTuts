@@ -1,4 +1,0 @@
-[1016/160201.611:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[1016/160233.274:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 7
-[1016/160233.362:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 9
-[1016/162120.822:ERROR:command_buffer_proxy_impl.cc(121)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
